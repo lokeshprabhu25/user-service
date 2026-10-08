@@ -1,0 +1,8 @@
+pyproject.toml
+user_service/__init__.py
+user_service/app.py
+user_service.egg-info/PKG-INFO
+user_service.egg-info/SOURCES.txt
+user_service.egg-info/dependency_links.txt
+user_service.egg-info/requires.txt
+user_service.egg-info/top_level.txt
